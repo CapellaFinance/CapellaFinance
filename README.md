@@ -6,7 +6,7 @@
 🌐 Web: https://capella.finance
 🐦Twitter: https://twitter.com/capellafinance 
 💂‍♀️English channel: https://t.me/capellaChannel
-Discord - https://discord.gg/QGzjgxgU
+Discord - https://discord.gg/mpMsNyBGw4
 
 <!---
 CapellaFinance/CapellaFinance is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
