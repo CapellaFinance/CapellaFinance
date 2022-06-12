@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @CapellaFinance
 - 👀 I’m interested in Liquidity mining 
-- 🌱 I’m currently learning about DAO and Web 3.0
+- 🌱 I’m currently creating DAO and Web 3.0
 - 💞️ I’m looking to collaborate on Polygon blockchain
 - 📫 How to reach me 
 🌐 Web: https://capella.finance
